@@ -15,10 +15,10 @@ app.set('views', path.join(__dirname, 'views'));
 
 // Database configuration
 const config = {
-    user: 'azureuser',
-    password: 'P@ssw0rdssss',
-    server: '361wk10.database.windows.net ',
-    database: 'wk10',
+    user: 'classactivity3',
+    password: 'P@ssw0rd',
+    server: 'classactivity3.database.windows.net ',
+    database: 'classactivity3',
   options: {
     encrypt: true,
     enableArithAbort: true
